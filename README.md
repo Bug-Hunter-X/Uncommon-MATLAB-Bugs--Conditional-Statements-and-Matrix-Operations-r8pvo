@@ -1,0 +1,1 @@
+This repository contains examples of uncommon bugs in MATLAB, focusing on unexpected behavior in conditional statements and the distinction between element-wise and matrix multiplication. The `bug.m` file demonstrates these issues, while `bugSolution.m` provides corrected code and explanations.
